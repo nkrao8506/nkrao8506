@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Machine Learning Developer | AI Enthusiast | GenAI Explorer</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/mF4Ne7cI4A4AAAAC/luffy-one-piece.gif" width="250" alt="Luffy GIF"/>
+  <img src="https://rust-lang.org/static/images/ferris.gif" width="250" alt="RUST GIF"/>
 </p>
 
 ---
