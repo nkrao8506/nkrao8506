@@ -13,7 +13,8 @@
 - 🤖 Passionate about Machine Learning, Deep Learning & Generative AI  
 - 📊 Built projects in NLP, Recommendation Systems & Computer Vision  
 - 🔥 Currently exploring Transformers & Agentic AI Systems  
-- 🎯 Aspiring to work in cutting-edge AI research & engineering  
+- 🎯 Aspiring to work in cutting-edge AI research & engineering
+- 🔰 Spending time to understand RUST
 
 ---
 
