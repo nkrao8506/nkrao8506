@@ -42,12 +42,12 @@
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nkrao8506&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160"/>
+<!-- <div align="center">
+  <!-- <img src="https://streak-stats.demolab.com?user=nkrao8506&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160"/> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkrao8506&theme=react-dark&area=true" height="250"/>
-</div>
+</div> -->
 
 ---
 
