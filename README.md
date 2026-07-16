@@ -9,10 +9,10 @@
 
 ## 🧠 About Me
 
-- 🎓 3rd Year CSE Student  
+- 🎓 Final Year CSE Student  
 - 🤖 Passionate about Machine Learning, Deep Learning & Generative AI  
 - 📊 Built projects in NLP, Recommendation Systems & Computer Vision  
-- 🔥 Currently exploring Transformers & Agentic AI Systems  
+- 🔥 Currently exploring Transformers & Agentic AI Systems, alongside Genrative Models such as Diffusion Models and Flow based models, VAE and GANs
 - 🎯 Aspiring to work in cutting-edge AI research & engineering
 - 🔰 Spending time to understand RUST
 
